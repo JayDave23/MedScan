@@ -1,0 +1,2 @@
+# MedScan
+Hackathon project DAIICT
